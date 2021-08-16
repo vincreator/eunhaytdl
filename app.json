@@ -1,13 +1,15 @@
 {
-  "name": "YouTube Downloader Bot",
-  "description": "A telegram bot To Download Youtube Files ",
-  "logo": "https://telegra.ph/file/6a3b1febade2313dd0dca.jpg",
+  "name": "Eunha Youtube Downloader",
+  "description": "A telegram bot To Download Youtube video as Document or Video ",
+  "logo": "https://telegra.ph/file/39a1878efeeb15b15633c.jpg",
   "keywords": [
-    "Youtube","YoutubeDownloader"
+    "Youtube",
+    "YoutubeDownloader",
+    "YtDl"
   ],
-  "repository": "https://github.com/aryanvikash/Youtube-Downloader-Bot",
-  "success_url": "https://t.me/youtubdlbot",
-  "website": "https://github.com/aryanvikash/Youtube-Downloader-Bot",
+  "repository": "https://github.com/vincreator/eunhaytdl",
+  "success_url": "https://t.me/EunhaYtdlbot",
+  "website": "https://github.com/vincreator/eunhaytdl/blob/master/README.md",
   "env": {
         "API_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
         "API_HASH": {"description": "Get this value from https://my.telegram.org" , "required": true},
